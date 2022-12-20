@@ -1,12 +1,11 @@
 # ARC_Capstone
-Air Ticketing Forecast
+What is the expected number of air tickets booked directly with Airlines (i.e. airline 
+website) for the remainder of 2022 through the end of 2024?
 
 ● About Airlines Reporting Corporation (ARC)
-ARC accelerates growth for the travel industry and stakeholders who rely on travel analytics 
-by delivering flexible distribution services, innovative financial solutions, and forwardlooking travel data.
 
-What is the expected number of air tickets booked directly with Airlines (i.e. airline 
-website) for the remainder of 2022 through the end of 2024? 
+ARC accelerates growth for the travel industry and stakeholders who rely on travel analytics 
+by delivering flexible distribution services, innovative financial solutions, and forward-looking travel data.
 
 ● Business Problem:
 
