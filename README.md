@@ -5,7 +5,7 @@ Understanding future air travel is always a crucial issue for ARC as they wish t
 This project aims to forecast the direct booking from airlines during 2022 - 2024 to help ARC understand the big 
 picture of post-covid air travel and come up with successful business strategies in advance.
 
-● Research Questions:
+● Research Question:
 
 What is the expected number of air tickets booked directly with Airlines (i.e. airline 
 website) for the remainder of 2022 through the end of 2024? 
