@@ -2,7 +2,7 @@
 
 Airlines Reporting Corporation (ARC) accelerates growth for the travel industry and serves for its cooporated travel agencies and partnered airlines.
 Understanding future air travel is always a crucial issue for ARC as they wish to provide better settlement services and data solutions. 
-This project aims to forecast the direct booking from airlines during 2022-2024 to help ARC understand the big 
+This project aims to forecast the direct booking from airlines during 2022 - 2024 to help ARC understand the big 
 picture of post-covid air travel and come up with successful business strategies in advance.
 
 ● Research Questions for the project:
